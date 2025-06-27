@@ -59,4 +59,4 @@ nutrition_info = {
 
 ## Run script
 - python yolo_video.py --model my_model.pt --source usb0 --resolution 1280x720
-- python candy_stats.py --model my_model.pt --source usb0 --resolution 1280x720
+- python stats.py --model my_model.pt --source usb0 --resolution 1280x720
